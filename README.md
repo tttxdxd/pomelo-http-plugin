@@ -1,2 +1,2 @@
-# pomelo-koa-plugin
-koa plugin for pomelo
+# pomelo-http-plugin
+http plugin for pomelo

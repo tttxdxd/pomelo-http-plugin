@@ -1,0 +1,31 @@
+{
+  "name": "pomelo-http-plugin",
+  "version": "1.0.0",
+  "description": "http plugin for pomelo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tttxdxd/pomelo-http-plugin.git"
+  },
+  "keywords": [
+    "pomelo",
+    "http",
+    "koa"
+  ],
+  "author": "tttxdxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tttxdxd/pomelo-http-plugin/issues"
+  },
+  "homepage": "https://github.com/tttxdxd/pomelo-http-plugin#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.11.3",
+    "@types/node": "^13.13.0"
+  }
+}
